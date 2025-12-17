@@ -10,21 +10,21 @@ The goal is to demonstrate how genetic algorithms can solve pathfinding and reso
    ```bash
    git clone https://github.com/wll1521/genetic-algorithm-grid-game.git
    cd genetic-algorithm-grid-game
-
+   ```
 2. Create and activate a virtual environment (recommended):
    ```bash
     python -m venv venv
     venv\Scripts\activate #For Windows OS
-   
+   ```
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
-
+    ```
 ## Run
 
-    ```bash
+   ```bash
     python -m main
-
+   ```
 
 # Dependencies
 - pyxel: For game rendering.

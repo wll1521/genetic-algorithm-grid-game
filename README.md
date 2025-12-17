@@ -26,6 +26,9 @@ The goal is to demonstrate how genetic algorithms can solve pathfinding and reso
     python -m main
    ```
 
+# Requirements
+- Python 3.11+
+  
 # Dependencies
 - pyxel: For game rendering.
 - matplotlib: For plotting fitness and exploration data.
